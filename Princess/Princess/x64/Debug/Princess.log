@@ -1,0 +1,3 @@
+﻿  knight.cpp
+C:\HANH\Knight\Princess\Princess\knight.cpp(93,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Princess.vcxproj -> C:\HANH\Knight\Princess\x64\Debug\Princess.exe
